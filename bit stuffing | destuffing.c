@@ -1,8 +1,3 @@
-/*
-Name: Harshpreet Singh Sandhu
-Roll no: 65
-*/
-
 #include<stdio.h>
 #include<string.h>
 int main()
