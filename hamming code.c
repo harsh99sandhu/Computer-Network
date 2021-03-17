@@ -1,7 +1,3 @@
-/* 
-	Harshpreet Singh Sandhu
-    65
-*/ 
 #include<stdio.h>
  
 void main() 
